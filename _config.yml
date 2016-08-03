@@ -1,4 +1,3 @@
-layout_spectrum: 0.8363815534394234
 typography_spectrum: 0.12025401508435607
 color:
   brandStrength: 0.1439358696807176
@@ -11,5 +10,7 @@ color:
     - '#000000'
     - '#000000'
     - '#000000'
+layout_spectrum: 0.8363815534394234
 name: Why Stand
 title: Always preserve your energy
+description: WhyStandWhenYouCanSit
